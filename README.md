@@ -1,4 +1,5 @@
 # Bonifacio Untold
+
 A simple game we made using Unity for a History class. It follows Andres Bonifacio and his quest to collect Jose Rizal's writings.
 
 # Running the Game
